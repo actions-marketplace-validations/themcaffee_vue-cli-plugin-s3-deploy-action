@@ -1,4 +1,4 @@
-name: "vue cli plugin s3 deploy action"
+name: "vue cli plugin s3 deploy action themcaffee"
 description: "A Github action for vue-cli-plugin-s3-deploy"
 author: themcaffee
 runs:
