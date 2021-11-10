@@ -16,6 +16,8 @@ fi
 
 # Start deployment
 
+cd $BASE_DIRECTORY
+
 yarn global add @vue/cli
 yarn add vue-cli-plugin-s3-deploy@next
 yarn install
